@@ -1,0 +1,17 @@
+1) - Developing Data Products
+   - Getting and Cleaning Data
+   - R programming
+
+2) - R has a nice IDE, Rstudio.
+   - R is free.
+   - R has a large number of add on packages that are useful for data analysis.
+
+3) - Looking through R help files.
+   - Asking a skilled friend.
+
+4) - Is very specific.
+   - Is polite and courteous.
+
+5) - kernlab
+   - rpart
+   - pamr
