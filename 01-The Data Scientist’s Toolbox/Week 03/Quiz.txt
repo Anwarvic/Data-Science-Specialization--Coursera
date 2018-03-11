@@ -1,0 +1,9 @@
+1) This is an example of a predictive data analysis. This is an example of an inferential data analysis.
+
+2) The question you are trying to answer.
+
+3) There would be confounding because the number of people that live in an area is related to both Martha Stewart Living Subscribers and Our Site's Users.
+
+4) Taking a convenience sample. (wrong) 
+
+5) The price and difficulty of collecting and storing data has dramatically dropped.
