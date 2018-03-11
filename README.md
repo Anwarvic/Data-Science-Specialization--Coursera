@@ -4,16 +4,16 @@ This repo contains my solution to the Coursera specialization "[Data Science Spe
 
 This specialization consists of ten courses:
 
-- The Data Scientist’s Toolbox.
-- R Programming
-- Getting and Cleaning Data
-- Exploratory Data Analysis
-- Reproducible Research
-- Statistical Inference
-- Regression Models
-- Practical Machine Learning
-- Developing Data Products
-- Data Science Capstone
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools)
+- [R Programming](https://www.coursera.org/learn/r-programming)
+- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
+- [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
+- [Reproducible Research](https://www.coursera.org/learn/reproducible-research)
+- [Statistical Inference](https://www.coursera.org/learn/statistical-inference)
+- [Regression Models](https://www.coursera.org/learn/regression-models)
+- [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
+- [Developing Data Products](https://www.coursera.org/learn/data-products)
+- [Data Science Capstone](https://www.coursera.org/learn/data-science-project)
 
 
 
