@@ -1,0 +1,12 @@
+1) mkdir data
+
+2) git init
+
+3) git clone https://github.com/username/datascientist.git
+
+4) ## Data Science Specialization
+    * Uses R
+    * Nine courses
+    * Goes from raw data to data products
+
+5) Copyright M. P. Wand 1997-2009
