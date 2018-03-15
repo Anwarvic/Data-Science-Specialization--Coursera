@@ -1,0 +1,9 @@
+1) 53
+
+2) Tidy data has one variable per column.
+
+3) 36534720
+
+4) 127
+
+5) mean(DT$pwgtp15,by=DT$SEX) DT[,mean(pwgtp15),by=SEX]
