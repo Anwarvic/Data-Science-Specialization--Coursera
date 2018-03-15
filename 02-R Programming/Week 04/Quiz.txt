@@ -1,0 +1,20 @@
+1) A vector with the numbers 1, 1, 2, 4, 1
+
+2) dnorm. rnorm
+
+3) - It ensures that the sequence of random numbers starts in a specific place and is therefore reproducible.
+   - It can be used to specify which random number generating algorithm R should use, ensuring consistency and reproducibility.
+
+4) qpois
+
+5) Generate data from a Normal linear model
+
+6) rbinom
+
+7) the function call stack
+
+8) It is not possible to tell 100%
+
+9) It is the time spent by the CPU evaluating an expression
+
+10) elapsed time may be smaller than user time
