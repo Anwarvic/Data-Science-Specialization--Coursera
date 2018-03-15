@@ -1,0 +1,2 @@
+sample.interval=20000
+"deparse" ".rs.isSourceCall" "FUN" "lapply" ".rs.recordTraceback" "<Anonymous>" "eval" "eval" "model.frame.default" "stats::model.frame" "eval" "eval" "lm" 

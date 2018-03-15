@@ -1,0 +1,19 @@
+1) The number 27 is returned
+
+2) 'x' is a vector of length 10 and 'if' can only test a single logical statement.
+
+3) 10
+
+4) 10
+
+5) f
+
+6) a collection of symbol/value pairs
+
+7) lexical scoping
+
+8) The values of free variables are searched for in the environment in which the function was defined
+
+9) All objects must be stored in memory
+
+10) It is the environment in which a function was called
