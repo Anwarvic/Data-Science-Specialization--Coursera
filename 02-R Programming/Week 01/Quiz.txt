@@ -1,0 +1,52 @@
+1) The University of Auckland
+
+2) - The freedom to sell the software for any price.
+   - The freedom to prevent users from using the software for undesirable purposes.
+   - The freedom to restrict access to the source code for the software.
+
+3) - table
+   - matrix
+   - array
+   - data frame
+   - list
+
+4) numeric
+
+5) numeric
+
+6) a matrix with 2 columns and 3 rows
+
+7) elements of a vector can be of different classes (wrong)
+
+8) - a numeric vector of length 1.
+   - a numeric vector containing the element 2.
+
+9) a numeric vector with elements 3, 4, 5, 6.
+
+10) - x[x < 6] <- 0
+    - x[x %in% 1:5] <- 0
+    - x[x <= 5] <- 0
+
+11) Ozone, Solar.R, Wind, Temp, Month, Day
+
+12)      Ozone Solar.R Wind Temp Month Day
+     1    41     190  7.4   67     5   1
+     2    36     118  8.0   72     5   2
+
+13) 153
+
+14)        Ozone Solar.R Wind Temp Month Day
+     152    18     131  8.0   76     9  29
+     153    20     223 11.5   68     9  30
+
+15) 21
+
+16) 37
+
+17) 42.1
+
+18) 212.8
+
+19) 79.1
+
+20) 115
