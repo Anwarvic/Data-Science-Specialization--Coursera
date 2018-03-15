@@ -1,0 +1,11 @@
+1) 7
+
+2) apply(iris[, 1:4], 2, mean)
+
+3) - with(mtcars, tapply(mpg, cyl, mean))
+   - tapply(mtcars$mpg, mtcars$cyl, mean)
+   - sapply(split(mtcars$mpg, mtcars$cyl), mean)
+
+4) 12
+
+5) Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.
