@@ -1,5 +1,4 @@
 source('read_data.R')
-library(ggplot2)
 
 plot3 <- function(){
   df <- read_data()
