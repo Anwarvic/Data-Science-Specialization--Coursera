@@ -1,0 +1,21 @@
+1) Show causality, mechanism, explanation
+
+2) Axes, legends, and other details are clean and exactly detailed.
+Only a few are constructed.
+They are made for formal presentations.
+
+3) Plots are created and annotated with separate functions
+
+4) A PNG file
+
+5) SVG
+
+6) Scatterplots with many many points
+
+7) lines()
+
+8) windows()
+
+9) the plotting symbol/character in the base graphics system
+
+10) Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()
